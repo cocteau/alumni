@@ -1,89 +1,89 @@
-Question ID,Description,Values,,
-access_med.access_other,whether the individual accessed medical care at another facility,"0: no
+"Question ID","Description","Values"
+"access_med.access_other","whether the individual accessed medical care at another facility","0: no
 1: yes, at another Puerto Rican health facility
-2: yes, at a temporary aid center",,
-access_med.couldnt_afford,number of days that a member of the household was unable to afford care,"99: NA
+2: yes, at a temporary aid center"
+"access_med.couldnt_afford","number of days that a member of the household was unable to afford care","99: NA
 0: 0 days
 1: 1 day
 2: 2 days
 3: 3-7 days
 4: 8-30 days
 5: >30 days
-6: Still don't have it",,
-access_med.facility_closed,number of days that a member of the household was unable to get medical care because the healthcare facility was damaged or closed,"99: NA
+6: Still don't have it"
+"access_med.facility_closed","number of days that a member of the household was unable to get medical care because the healthcare facility was damaged or closed","99: NA
 0: 0 days
 1: 1 day
 2: 2 days
 3: 3-7 days
 4: 8-30 days
 5: >30 days
-6: Still don't have it",,
-access_med.no_911,number of days that a member of the household was unable to get to medical care because 911 was not available,"99: NA
+6: Still don't have it"
+"access_med.no_911","number of days that a member of the household was unable to get to medical care because 911 was not available","99: NA
 0: 0 days
 1: 1 day
 2: 2 days
 3: 3-7 days
 4: 8-30 days
 5: >30 days
-6: Still don't have it",,
-access_med.no_dialysis,number of days that a member of the household was unable to continue dialysis,"99: NA
+6: Still don't have it"
+"access_med.no_dialysis","number of days that a member of the household was unable to continue dialysis","99: NA
 0: 0 days
 1: 1 day
 2: 2 days
 3: 3-7 days
 4: 8-30 days
 5: >30 days
-6: Still don't have it",,
-access_med.no_doctors,number of days that a member of the household was unable to get medical care because the doctors were not there,"99: NA
+6: Still don't have it"
+"access_med.no_doctors","number of days that a member of the household was unable to get medical care because the doctors were not there","99: NA
 0: 0 days
 1: 1 day
 2: 2 days
 3: 3-7 days
 4: 8-30 days
 5: >30 days
-6: Still don't have it",,
-access_med.no_meds,number of days that a member of the household was unable to get medicines,"99: NA
+6: Still don't have it"
+"access_med.no_meds","number of days that a member of the household was unable to get medicines","99: NA
 0: 0 days
 1: 1 day
 2: 2 days
 3: 3-7 days
 4: 8-30 days
 5: >30 days
-6: Still don't have it",,
-access_med.no_resp_mach,"number of days that a member of the household was unable to use breathing treatment that required electricity (CPAP, BiPAP or nebulizer)","99: NA
+6: Still don't have it"
+"access_med.no_resp_mach","number of days that a member of the household was unable to use breathing treatment that required electricity (CPAP, BiPAP or nebulizer)","99: NA
 0: 0 days
 1: 1 day
 2: 2 days
 3: 3-7 days
 4: 8-30 days
 5: >30 days
-6: Still don't have it",,
-access_med.no_transport,number of days that a member of the household was unable to get to medical care because there were no other means of transport,"99: NA
+6: Still don't have it"
+"access_med.no_transport","number of days that a member of the household was unable to get to medical care because there were no other means of transport","99: NA
 0: 0 days
 1: 1 day
 2: 2 days
 3: 3-7 days
 4: 8-30 days
 5: >30 days
-6: Still don't have it",,
-access_med.ot_reasons,number of days that a member of the household was unable to get medical care because of other reasons,"99: NA
+6: Still don't have it"
+"access_med.ot_reasons","number of days that a member of the household was unable to get medical care because of other reasons","99: NA
 0: 0 days
 1: 1 day
 2: 2 days
 3: 3-7 days
 4: 8-30 days
 5: >30 days
-6: Still don't have it",,
-access_med.roads_damaged,number of days that a member of the household was unable to get to medical care because the roads were damaged,"99: NA
+6: Still don't have it"
+"access_med.roads_damaged","number of days that a member of the household was unable to get to medical care because the roads were damaged","99: NA
 0: 0 days
 1: 1 day
 2: 2 days
 3: 3-7 days
 4: 8-30 days
 5: >30 days
-6: Still don't have it",,
-age,integer from 1 to 100 (all ages less than one year are categorized as one year),integer,,
-cause_of_death,cause of death,"99: other reason
+6: Still don't have it"
+"age","integer from 1 to 100 (all ages less than one year are categorized as one year)","integer"
+"cause_of_death","cause of death","99: other reason
 0: causes unrelated to the hurricane
 1: trauma (vehicle accident)
 2: trauma (building collapse)
@@ -94,40 +94,40 @@ cause_of_death,cause of death,"99: other reason
 7: electrocution
 8: interruption of necessary medical services (medications, dialysis, doctor visit...)
 9: medical complications from an injury, trauma, or illness directly due to the hurricane
-10: suicide",,
-cause_of_death_ot,other cause of death (not among those listed),open text,,
-cell_short_b,how frequently the individual lost access to mobile networks before the hurricane,"0: no
+10: suicide"
+"cause_of_death_ot","other cause of death (not among those listed)","open text"
+"cell_short_b","how frequently the individual lost access to mobile networks before the hurricane","0: no
 1: once a day
 2: once a week
 3: once a month
-4: rarely",,
-cell.dec,number of days in December the individual lost access to the cellular netowork,"0: 0 days
+4: rarely"
+"cell.dec","number of days in December the individual lost access to the cellular netowork","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-cell.lost_cell,whether the individual lost access to the cell network after the hurricane,"0: no
-1: yes",,
-cell.nov,number of days in November the individual lost access to the cellular netowork,"0: 0 days
+4: all month"
+"cell.lost_cell","whether the individual lost access to the cell network after the hurricane","0: no
+1: yes"
+"cell.nov","number of days in November the individual lost access to the cellular netowork","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-cell.oct,number of days in October the individual lost access to the cellular netowork,"0: 0 days
+4: all month"
+"cell.oct","number of days in October the individual lost access to the cellular netowork","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-cell.sept,number of days in September the individual lost access to the cellular netowork,"0: 0 days
+4: all month"
+"cell.sept","number of days in September the individual lost access to the cellular netowork","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-consent,consent form used to conduct the survey,"0: no
-1: yes",,
-died_b_p_hurricane,whether the individual died before or after the hurricane,"1: before
-2: after",,
-died_month,month the individual died,"1: January
+4: all month"
+"consent","consent form used to conduct the survey","0: no
+1: yes"
+"died_b_p_hurricane","whether the individual died before or after the hurricane","1: before
+2: after"
+"died_month","month the individual died","1: January
 2: February
 3: March
 4: April
@@ -138,59 +138,59 @@ died_month,month the individual died,"1: January
 9: September
 10: October
 11: November
-12: December",,
-electricity.dec,number of days in December the household lost electricity,"0: 0 days
+12: December"
+"electricity.dec","number of days in December the household lost electricity","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-electricity.elec_short_b,whether the household had power shortages before the hurricane,"0: no
+4: all month"
+"electricity.elec_short_b","whether the household had power shortages before the hurricane","0: no
 1: once a day
 2: once a week
 3: once a month
-4: rarely",,
-electricity.lost_elec,whether the household has lost power after the hurricane,"0: no
-1: yes",,
-electricity.nov,number of days in November the household lost electricity,"0: 0 days
+4: rarely"
+"electricity.lost_elec","whether the household has lost power after the hurricane","0: no
+1: yes"
+"electricity.nov","number of days in November the household lost electricity","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-electricity.oct,number of days in October the household lost electricity,"0: 0 days
+4: all month"
+"electricity.oct","number of days in October the household lost electricity","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-electricity.sept,number of days in September the household lost electricity,"0: 0 days
+4: all month"
+"electricity.sept","number of days in September the household lost electricity","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-gender,self-identified gender,"0: femenine
+4: all month"
+"gender","self-identified gender","0: femenine
 1: masculine
-2: other",,
-hh_mem_num,sequential numbering of household member,integers,,
-hh_size,total number of people who have lived in the household from January to December of 2017,integer,,
-hhid,household ID,integer (zero indexed),,
-left_b_p_hurricane,whether the individual left before or after the hurricane,"1: before
-2: after",,
-left_bc_hurricane,whether the individual left because of the hurricane,"0: no
-1: yes",,
-left_final,where the individual is currently,"0: no se
+2: other"
+"hh_mem_num","sequential numbering of household member","integers"
+"hh_size","total number of people who have lived in the household from January to December of 2017","integer"
+"hhid","household ID","integer (zero indexed)"
+"left_b_p_hurricane","whether the individual left before or after the hurricane","1: before
+2: after"
+"left_bc_hurricane","whether the individual left because of the hurricane","0: no
+1: yes"
+"left_final","where the individual is currently","0: no se
 1: somewhere else in Puerto Rico
 2: Florida
 3: New York
 4: Texas
 5: another state in the USA
-6: another country outside the USA",,
-left_first,where the individual left to,"0: no se
+6: another country outside the USA"
+"left_first","where the individual left to","0: no se
 1: somewhere else in Puerto Rico
 2: Florida
 3: New York
 4: Texas
 5: another state in the USA
-6: another country outside the USA",,
-left_month,month the individual left,"1: January
+6: another country outside the USA"
+"left_month","month the individual left","1: January
 2: February
 3: March
 4: April
@@ -201,10 +201,10 @@ left_month,month the individual left,"1: January
 9: September
 10: October
 11: November
-12: December",,
-lived_movedin,whether an individual lived in the household at the beginning of 2017 or moved in,"1: lived there
-2: moved in",,
-missing_month,month the individual went missing,"1: January
+12: December"
+"lived_movedin","whether an individual lived in the household at the beginning of 2017 or moved in","1: lived there
+2: moved in"
+"missing_month","month the individual went missing","1: January
 2: February
 3: March
 4: April
@@ -215,18 +215,18 @@ missing_month,month the individual went missing,"1: January
 9: September
 10: October
 11: November
-12: December",,
-mort_neighbor,number of people or neighbors (within five minutes walking distance from the household) who died in an individual's “barrio” since the hurricane,"99: no se
+12: December"
+"mort_neighbor","number of people or neighbors (within five minutes walking distance from the household) who died in an individual's <U+201C>barrio<U+201D> since the hurricane","99: no se
 0: no
 1: 1
 2: 2
 3: 3
 4: 4
 5: 5
-6: >5",,
-movedin_bc_hurricane,whether the individual moved in because of the hurricane,"0: no
-1: yes",,
-movedin_month,month the individual moved into the household,"1: January
+6: >5"
+"movedin_bc_hurricane","whether the individual moved in because of the hurricane","0: no
+1: yes"
+"movedin_month","month the individual moved into the household","1: January
 2: February
 3: March
 4: April
@@ -237,71 +237,71 @@ movedin_month,month the individual moved into the household,"1: January
 9: September
 10: October
 11: November
-12: December",,
-neighbors_num,number of neighbors an individual has,"1: <10
+12: December"
+"neighbors_num","number of neighbors an individual has","1: <10
 2: 10-25
 3: 26-50
 4: 51-100
-5: >100",,
-notas,extra notes,open text,,
-status,the individual's current status,"1: still living in the household
+5: >100"
+"notas","extra notes","open text"
+"status","the individual's current status","1: still living in the household
 2: died in 2017
 3: left in 2017 and did not return
-4: missing",,
-water.dec,number of days in December the household did not have water,"0: 0 days
+4: missing"
+"water.dec","number of days in December the household did not have water","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-water.dec_drink,number of days in December the household did not have drinkable water,"0: 0 days
+4: all month"
+"water.dec_drink","number of days in December the household did not have drinkable water","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-water.drinkable_water_now,how the household obtains drinkable water,"1: buying it
+4: all month"
+"water.drinkable_water_now","how the household obtains drinkable water","1: buying it
 2: from a natural source (untreated)
-3: from a natural source (treated)",,
-water.lost_drink_water,whether the household lost access to drinkable water after the hurricane,"0: no
+3: from a natural source (treated)"
+"water.lost_drink_water","whether the household lost access to drinkable water after the hurricane","0: no
 1: yes
-2: there was no access to drinkable water before the hurricane",,
-water.lost_water,whether the household has lost water service after the hurricane,"0: no
-1: yes",,
-water.nov,number of days in November the household did not have water,"0: 0 days
+2: there was no access to drinkable water before the hurricane"
+"water.lost_water","whether the household has lost water service after the hurricane","0: no
+1: yes"
+"water.nov","number of days in November the household did not have water","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-water.nov_drink,number of days in November the household did not have drinkable water,"0: 0 days
+4: all month"
+"water.nov_drink","number of days in November the household did not have drinkable water","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-water.oct,number of days in October the household did not have water,"0: 0 days
+4: all month"
+"water.oct","number of days in October the household did not have water","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-water.oct_drink,number of days in October the household did not have drinkable water,"0: 0 days
+4: all month"
+"water.oct_drink","number of days in October the household did not have drinkable water","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-water.sept,number of days in September the household did not have water,"0: 0 days
+4: all month"
+"water.sept","number of days in September the household did not have water","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-water.sept_drink,number of days in September the household did not have drinkable water,"0: 0 days
+4: all month"
+"water.sept_drink","number of days in September the household did not have drinkable water","0: 0 days
 1: 1-7 days
 2: 8-14 days
 3: 15-30 days
-4: all month",,
-water.water_short_b,whether the household had had water shortages before the hurricane,"0: no
+4: all month"
+"water.water_short_b","whether the household had had water shortages before the hurricane","0: no
 1: once a day
 2: once a week
 3: once a month
-4: rarely",,
-id,barrio id number ,numeric,,
-barrio_id,barrio id number merged from previous dataset,numeric,,
-imputed_gps,flag if gps was imputed ,yes or no,,
-flag,flag if data was received after January 26th,1 for yes 0 for no,,
+4: rarely"
+"id","barrio id number","numeric"
+"barrio_id","barrio id number merged from previous dataset","numeric"
+"imputed_gps","flag if gps was imputed","yes or no"
+"flag","flag if data was received after January 26th","1 for yes 0 for no"
